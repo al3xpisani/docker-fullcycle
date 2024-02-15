@@ -16,7 +16,7 @@ _Creation Date : 2/15/2024_
 
 #### After "docker pull..." the expected result in raw text would be : Full Cycle Rocks !!!
 
-## Docker hub fullcycle image repository. Try it
+## Docker hub fullcycle image repository. Try it :)
 
 _https://hub.docker.com/r/al3xant/fullcycle/tags_
 
