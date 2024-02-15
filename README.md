@@ -18,6 +18,10 @@ _Creation Date : 2/15/2024_
 
 ## Docker hub fullcycle image repository. Try it
 
+_https://hub.docker.com/r/al3xant/fullcycle/tags_
+
+## Run below in your terminal
+
 **docker pull al3xant/fullcycle:latest**
 
 ## Github repository
